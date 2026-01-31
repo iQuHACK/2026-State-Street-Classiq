@@ -1,5 +1,8 @@
-<img src="https://github.com/user-attachments/assets/e7289ab2-cc2b-481e-a548-84155e466324" width="460" />
-<img src="https://quantumcomputingreport.com/wp-content/uploads/2025/07/image-153.png" width="460" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e7289ab2-cc2b-481e-a548-84155e466324" width="460" />
+  <img src="https://quantumcomputingreport.com/wp-content/uploads/2025/07/image-153.png" width="460" />
+</p>
+
 
 # iQuHACK 2026 – State Street × Classiq Challenge 
 *“Quantum algorithms won’t eliminate uncertainty; but they might finally help us
