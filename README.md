@@ -1,5 +1,4 @@
 <img src="https://github.com/user-attachments/assets/4fb38def-6618-4de7-b22c-8260aec07e90" width="460" />
-<img src="https://github.com/user-attachments/assets/16953bf7-57f7-4962-a7f1-c16c5a35b397" width="460" />
 <img src="https://github.com/user-attachments/assets/e7289ab2-cc2b-481e-a548-84155e466324" width="460" />
 
 # iQuHACK 2026 – State Street × Classiq Challenge 
