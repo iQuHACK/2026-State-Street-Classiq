@@ -20,8 +20,8 @@ quantum techniques may demonstrate an advantage. You will compute **Value at Ris
   
 ## Contents
 ### Classical Tasks
-- Define an asset return probability distribution over a fixed time horizon (e.g. 1 day) ,
-starting with a **Gaussian distribution**.
+- Define an asset return probability distribution over a fixed time horizon (e.g. 1 year),
+starting with a **Gaussian distribution** with mean of 15% and standard deviation of 20%.
 - Use **classical Monte Carlo** to estimate VaR at a chosen confidence level (e.g.,
 95%).
 - Study how the estimated VaR converge to the theoretical value as a function of the
