@@ -122,3 +122,39 @@ Rather, it is about understanding:
 
 Your goal is to build intuition, not industrial finance pipelines.<br>
 Good luck, and happy hacking!
+
+## Useful links
+
+- [Value at Risk (VaR) – Wikipedia](https://en.wikipedia.org/wiki/Value_at_risk#Computation_methods)<br>
+Background on VaR definitions and classical computation methods
+
+- [Classiq VaR Reference Implementation](https://github.com/Classiq/classiq-library/blob/main/applications/finance/value_at_risk/value_at_risk.ipynb) <br>
+Baseline notebook demonstrating a quantum VaR implementation
+
+- [Classiq Documentation](https://docs.classiq.io/latest/) <br>
+Reference for the Classiq SDK, modeling language, and analysis tools
+
+- [Quantum Risk Analysis of Financial Derivatives](https://arxiv.org/pdf/2404.10088) <br>
+The paper introduces two quantum algorithms to compute Value at Risk (VaR) and Conditional
+Value at Risk (CVaR) for portfolios of financial derivatives by encoding many market scenarios
+simultaneously on a quantum computer. One approach extends existing quantum risk analysis
+techniques, while the other uses a Quantum Signal Processing (QSP) method that requires
+fewer quantum resources for the same accuracy. The authors analyze scaling, error behavior,
+and show via simulations that quantum methods can reduce resource requirements for tail-risk
+estimation.
+
+- [Quantum Subgradient Estimation for Conditional Value-at-Risk Optimization](https://arxiv.org/abs/2510.04736) <br>
+This work proposes a quantum method to estimate and optimize CVaR using amplitude
+estimation, reducing sample complexity from approximately 1/ε2 to 1/ε. Simulations confirm the
+theoretical speedup and robustness to errors in estimating the VaR threshold.
+
+- [Quantum Risk Analysis: Beyond (Conditional) Value-at-Risk](https://arxiv.org/abs/2211.04456) <br>
+This paper extends quantum risk analysis beyond VaR and CVaR to alternative measures such
+as Expectible VaR (EVaR) and Range VaR (RVaR). It studies robustness under noise and
+compares classical and quantum performance, highlighting both advantages and current
+hardware limitations.
+
+- [Quantum Risk Analysis](https://arxiv.org/abs/1806.06893) <br>
+A foundational paper showing how amplitude estimation enables near-quadratic speedups for
+computing VaR and CVaR compared to classical Monte Carlo methods, and discussing
+trade-offs between accuracy and circuit complexity.
