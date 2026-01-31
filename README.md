@@ -1,6 +1,5 @@
-<img src="https://github.com/user-attachments/assets/0aedc400-a82c-4f0c-8f13-31bdfcaa97c2" width="420" />
-<span style="font-size: 1.4em; position: relative; top: -6px;"><strong>X</strong></span>
-<img src="https://github.com/user-attachments/assets/e7289ab2-cc2b-481e-a548-84155e466324" width="480" />
+<img src="https://github.com/user-attachments/assets/0aedc400-a82c-4f0c-8f13-31bdfcaa97c2" width="460" />
+<img src="https://github.com/user-attachments/assets/e7289ab2-cc2b-481e-a548-84155e466324" width="460" />
 
 # iQuHACK 2026 – State Street × Classiq Challenge 
 *“Quantum algorithms won’t eliminate uncertainty; but they might finally help us
